@@ -8,4 +8,4 @@ Welcome to my first GitHub Pages website.
 
 [My CV](cv)
 
-[My blog](blog)
+[My Blog](blog)

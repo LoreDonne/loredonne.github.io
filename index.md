@@ -10,4 +10,4 @@ Welcome to my first GitHub Pages website.
 This is a link to my [CV](cv)
 
 # My blog
-This is my [blog](blog/_posts/2016-11-15)
+This is my [blog](blog)
